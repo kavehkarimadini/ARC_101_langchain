@@ -152,6 +152,27 @@ Each Jupyter notebook can be run independently after configuring an Ollama insta
 
 ---
 
+## Complementary Projects & Learning
+
+### **Sentiment Analysis MCP Server**
+
+Beyond this repository, I've built a practical **Sentiment Analysis MCP (Model Context Protocol) Server** using Hugging Face and Gradio. This project demonstrates the integration of natural language processing tools within the MCP framework.
+
+- **Project**: [Sentiment Analysis MCP Server on Hugging Face Spaces](https://huggingface.co/spaces/kavehkarimadini/setimenting_01)
+- **Purpose**: Provides real-time sentiment analysis through a simple, accessible interface
+- **Technology**: Hugging Face models, Gradio, MCP integration
+
+### **Hugging Face MCP Course Completion**
+
+I have successfully completed the **Hugging Face course on Model Context Protocol (MCP) servers**, gaining certified knowledge in:
+- MCP architecture and design patterns
+- Server implementation best practices
+- Tool integration and protocol compliance
+
+**Certificate**: ![MCP Hugging Face course certificate](image.webp)
+
+---
+
 ## Summary
 
 This repository represents a **complete educational journey** in modern LLM application development:
